@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @prathamaaaaa
+- 👋 Hi, I’m @prathama
 - 👀 I’m interested in developinng a large website
 - 🌱 I’m currently learning java development
 
